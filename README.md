@@ -43,4 +43,9 @@ This project showcases a visually compelling and interactive Power BI dashboard 
 ## 🚀 How to Use  
 1. **Clone this repository** to your local machine:  
    ```bash
-   git clone https://github.com/NoData01/blinkit-sales-analysis.git
+   git clone https://github.com/NoData01/PowerBI_Sales_Performance_Analysis_of_Blinkit_App.git
+
+
+## 📚 Resources  
+This project was inspired by the fantastic tutorial by [Curious Developer](https://www.youtube.com/watch?v=mmxVCFceQgU).  
+Their walkthrough provided the foundation for this sales analysis project.
